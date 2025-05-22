@@ -1,10 +1,10 @@
-### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### AIM: 
-To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
-### Description: 
+# EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
+## DATE: 17/03/2025
+## AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+## Description: 
 <div align = "justify">
 
-### Procedure:
+## Procedure:
 1) ***Import Excel data***
     <p>a. Drag the "Read Excel" operator from the IO folder onto the process canvas.
     <p>b. Double-click on the operator to open its configuration panel.
@@ -25,11 +25,11 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
     <p>d. Configure the file path and other settings for the Excel export.
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
-### Output:
-![Screenshot 2025-03-17 135647](https://github.com/user-attachments/assets/4196a368-0863-45a7-aa55-48086f57c034)
+## Output:
 
-![Screenshot 2025-03-17 135703](https://github.com/user-attachments/assets/48c73000-0e37-4086-b2c2-ee6d0dfc3d16)
+![Screenshot 2025-03-17 141326](https://github.com/user-attachments/assets/c254a8d8-8fc3-4d80-9bae-bc72475883e5)
 
-### Result:
-The sentiment analysis project in RapidMiner successfully processed an Excel dataset, applied sentiment classification using the VADER algorithm, and generated sentiment scores. The workflow consisted of three main steps:
+![Screenshot 2025-03-17 141338](https://github.com/user-attachments/assets/088b1051-3f8e-42f2-bb49-b830bcaa43df)
 
+## Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
